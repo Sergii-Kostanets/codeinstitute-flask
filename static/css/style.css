@@ -2,3 +2,15 @@
     width: 100%;
     object-fit: cover;
 }
+
+.page-title {
+    text-align: center;
+    font-size: 36px;
+}
+
+.flashes {
+    list-style-type: none;
+    text-align: center;
+    display: block;
+    padding: 0;
+}
